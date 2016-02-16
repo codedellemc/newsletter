@@ -7,8 +7,11 @@ for f in `ls $1/*.html | sort -r`;
   properdate=$(date -j -f '%m-%d-%y' $date +"%B %d, %Y")
   printf "
           <li>
-           <a href="$f">
+           <a href="$1/$date.html">
             <h2>EMC {code} Newsletter #$i : $properdate</h2>
+           </a>
+           <a href="$1/$date.pdf"
+            <h2>PDF</h2>
            </a>
           </li>
           </br>"

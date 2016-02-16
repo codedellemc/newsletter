@@ -9,7 +9,7 @@ body
 	margin: 0px;
 	padding: 0px;
 	background: #3D3D3D;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 11pt;
 	font-weight: 300;
 	color: #6c6c6c
@@ -367,7 +367,7 @@ ul.contact li a.icon-rss:before
 	{
 		overflow: hidden;
 		padding: 5em 0em 0em 0em;
-		background: #2C95DD url(images/overlay.png) repeat;
+		background: #32a7e4 url(images/overlay.png) repeat;
 	}
 
 	#header

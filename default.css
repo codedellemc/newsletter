@@ -8,7 +8,7 @@ body
 {
 	margin: 0px;
 	padding: 0px;
-	background: #3D3D3D;
+	background: #707070;
 	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 11pt;
 	font-weight: 300;
@@ -380,7 +380,7 @@ ul.contact li a.icon-rss:before
 	height: 0;
 	border-left: 60px solid transparent;
 	border-right: 60px solid transparent;
-	border-bottom: 30px solid #3D3D3D;
+	border-bottom: 30px solid #707070;
 }
 
 /*********************************************************************************/
@@ -433,7 +433,7 @@ ul.contact li a.icon-rss:before
 
 	#menu-wrapper
 	{
-		background: #3D3D3D;
+		background: #707070;
 	}
 
 	#menu
@@ -624,16 +624,16 @@ ul.contact li a.icon-rss:before
 
 #stamp .hexagon
 {
-	background: #3D3D3D;
+	background: #707070;
 }
 
 #stamp .hexagon:before {
 	border-left: 60px solid transparent;
 	border-right: 60px solid transparent;
-	border-bottom: 30px solid #3D3D3D;
+	border-bottom: 30px solid #707070;
 }
 #stamp .hexagon:after {
-	border-color: #3D3D3D;
+	border-color: #707070;
 }
 
 

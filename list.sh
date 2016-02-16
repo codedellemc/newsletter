@@ -13,7 +13,7 @@ for f in `ls $1/*.html | sort -r`;
             <h2>EMC {code} Newsletter #$i : $properdate</h2>
            </a>
            <a href="$1/$date.pdf">
-            <h2><span class=\"fa file-pdf-o\"></span></h2>
+            <h2><span class=\"fa fa-file-pdf-o\"></span></h2>
            </a>
           </li>
           </br>"
